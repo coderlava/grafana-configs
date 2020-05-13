@@ -82,3 +82,6 @@ sudo service loki stop
 sudo service promtail start
 sudo service promtail stop
 ```
+<br> 
+
+`/opt/grafana/loki/*.yml file configuration are located`
